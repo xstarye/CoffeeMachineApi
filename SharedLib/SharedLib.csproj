@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <PackageId>SharedLib</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Answer</Authors>
+	  <Company>None</Company>
+	  <Description>Common contract models for API and Kafka communication</Description>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
